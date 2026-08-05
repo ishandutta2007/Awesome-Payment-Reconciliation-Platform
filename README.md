@@ -22,18 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier Limit |
-|----------|-------------|---------|-----------------|
-| **[Numeric](https://www.numeric.io/)** | AI-powered financial close and real-time account/cash reconciliation platform with deep ERP integrations and high auto-match rates. | Custom / Starts at ~$30/user/mo | N/A |
-| **[BlackLine](https://www.blackline.com/)** | Enterprise-grade cloud platform for account reconciliation, transaction matching, journal entry automation, and financial close management. | Custom / Contact Sales | N/A |
-| **[ReconArt](https://www.reconart.com/)** | Configurable web-based reconciliation and financial close platform supporting high-volume multi-way matching, exception management, and balance sheet certification. | Custom / Contact Sales | N/A |
-| **[Trintech Adra](https://www.trintech.com/adra/)** | Mid-market financial close suite with multi-way transaction matching, balance sheet reconciliations, task management, and journal entry automation. | Custom / Contact Sales | N/A |
-| **[Fiserv Frontier Reconciliation](https://www.fiserv.com/)** | Enterprise end-to-end reconciliation and certification solution for high-volume bank, payment, and inter-system matching with strong audit controls (now under Trintech). | Custom / Contact Sales | N/A |
-| **[AutoRek](https://www.autorek.com/)** | No-code, AI-enhanced reconciliation and financial control platform for banks, payments, insurance, and asset management with regulatory rulebooks. | Custom / Contact Sales | N/A |
-| **[SmartStream TLM](https://www.smartstream-stp.com/)** | Transaction Lifecycle Management reconciliation platform specializing in high-volume trade, cash, and collateral matching for capital markets and banks. | Custom / Contact Sales | N/A |
-| **[Duco](https://www.du.co/)** | Cloud-native data reconciliation and automation platform focused on complex, high-volume matching and exception handling in financial services. | Custom / Contact Sales | N/A |
-| **[SolveXia](https://www.solvexia.com/)** | No-code automation platform for multi-source data reconciliation, variance analysis, and workflow-driven financial processes. | Custom / Contact Sales | N/A |
-| **[OneStream](https://www.onestream.com/)** | Unified corporate performance management platform with embedded account reconciliation, consolidation, and close automation capabilities. | Custom / Contact Sales | N/A |
+| Platform | Description | Pricing | Free Tier Limit | Company Size |
+|----------|-------------|---------|-----------------|--------------|
+| **[Fiserv Frontier Reconciliation](https://www.fiserv.com/)** | Enterprise end-to-end reconciliation and certification solution for high-volume bank, payment, and inter-system matching with strong audit controls (now under Trintech). | Custom / Contact Sales | N/A | ~$19B Revenue |
+| **[OneStream](https://www.onestream.com/)** | Unified corporate performance management platform with embedded account reconciliation, consolidation, and close automation capabilities. | Custom / Contact Sales | N/A | ~$1B Revenue |
+| **[BlackLine](https://www.blackline.com/)** | Enterprise-grade cloud platform for account reconciliation, transaction matching, journal entry automation, and financial close management. | Custom / Contact Sales | N/A | ~$590M Revenue |
+| **[SmartStream TLM](https://www.smartstream-stp.com/)** | Transaction Lifecycle Management reconciliation platform specializing in high-volume trade, cash, and collateral matching for capital markets and banks. | Custom / Contact Sales | N/A | ~$300M Revenue |
+| **[Trintech Adra](https://www.trintech.com/adra/)** | Mid-market financial close suite with multi-way transaction matching, balance sheet reconciliations, task management, and journal entry automation. | Custom / Contact Sales | N/A | ~$100M Revenue |
+| **[AutoRek](https://www.autorek.com/)** | No-code, AI-enhanced reconciliation and financial control platform for banks, payments, insurance, and asset management with regulatory rulebooks. | Custom / Contact Sales | N/A | ~$50M Revenue |
+| **[Duco](https://www.du.co/)** | Cloud-native data reconciliation and automation platform focused on complex, high-volume matching and exception handling in financial services. | Custom / Contact Sales | N/A | ~$30M Revenue |
+| **[ReconArt](https://www.reconart.com/)** | Configurable web-based reconciliation and financial close platform supporting high-volume multi-way matching, exception management, and balance sheet certification. | Custom / Contact Sales | N/A | ~$10M Revenue |
+| **[Numeric](https://www.numeric.io/)** | AI-powered financial close and real-time account/cash reconciliation platform with deep ERP integrations and high auto-match rates. | Custom / Starts at ~$30/user/mo | N/A | ~$5M Revenue |
+| **[SolveXia](https://www.solvexia.com/)** | No-code automation platform for multi-source data reconciliation, variance analysis, and workflow-driven financial processes. | Custom / Contact Sales | N/A | ~$2M Revenue |
 
 ## Open-Source GitHub Projects
 
