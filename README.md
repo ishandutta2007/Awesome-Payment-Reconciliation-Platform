@@ -1,6 +1,6 @@
 # Awesome-Payment-Reconciliation-Platform
 
-# Top Payment Reconciliation Platforms Ecosystem
+## Top Payment Reconciliation Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Automated Transaction Matching, Bank & Payment Reconciliation, Financial Close & Operational Intelligence*  
