@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8A2387;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8A2387;#E94057;#F27121;#8A2387" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" style="stop-color:#E94057;stop-opacity:1">
+        <animate attributeName="stop-color" values="#E94057;#F27121;#8A2387;#E94057" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" style="stop-color:#F27121;stop-opacity:1">
+        <animate attributeName="stop-color" values="#F27121;#8A2387;#E94057;#F27121" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#grad)" rx="15" />
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">Awesome Payment Reconciliation</text>
+  <text x="50%" y="75%" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle" dominant-baseline="middle">Automated Transaction Matching &amp; Financial Close</text>
+</svg>
